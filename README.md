@@ -1,5 +1,5 @@
 # My Dotfiles
-These are my dotfile configuration files for different software in Bash.
+This repository contains my personal development environment setup files and scripts. Please feel free to use it as you wish
 ## .vimrc
 This is my custom .vimrc configuration for Vim.
 ## .bashrc
